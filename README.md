@@ -53,19 +53,19 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Christian987654321&show_icons=true&theme=github_light&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ChristianQ90&show_icons=true&theme=github_light&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian987654321&layout=compact&theme=github_light&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianQ90&layout=compact&theme=github_light&hide_border=true" />
     </td>
   </tr>
 </table>
 
-[![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=Christian987654321&theme=github-light&hide_border=true)](https://github.com/Christian987654321)
+[![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=ChristianQ90&theme=github-light&hide_border=true)](https://github.com/ChristianQ90)
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Christian987654321&color=0e9440&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=ChristianQ90&color=0e9440&style=flat">
 </p>
 
